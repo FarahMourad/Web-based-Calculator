@@ -1,4 +1,4 @@
-# farah
+# How to
 
 ## Project setup
 ```
